@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mlproject_regression
+Version: 0.0.1
+Author: Utkarsh Gaikwad
+Author-email: gaikwadujg@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
